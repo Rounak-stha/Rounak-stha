@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Myself
+- 🌱 I’m currently learning TypeScript and Testing
+- 💬 Ask me about Web Development
+- 📫 How to reach me: rsthaofficial@gmail.com www.rounakstha.me
+- ⚡ Fun fact: Sky is blue
