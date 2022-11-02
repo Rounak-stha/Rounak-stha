@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Rounak Stha wecomes you</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="left">Hi 👋, Rounak Stha wecomes you</h1>
+<h3 align="left">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Design System, Component Library**
 
