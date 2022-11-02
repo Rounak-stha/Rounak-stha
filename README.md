@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, Rounak Stha wecomes you</h1>
+<h1 align="left">Hi 👋, Rounak Stha welcomes you</h1>
 <h3 align="left">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Design System, Component Library**
