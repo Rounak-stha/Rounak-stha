@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **to create awesome UI libraries**
 
-- 👨‍💻 Website [www.rounakstha.me](www.rounakstha.me)
+- 👨‍💻 Website [www.rounakstha.me](www.rounakstha.vercel.app)
 
-- 📝 I regularly write articles on [www.rounakstha.me/blog](www.rounakstha.me/blog)
+- 📝 I regularly write articles on [www.rounakstha.me/blog](www.rounakstha.vercel.app/blog)
 
 - 💬 Ask me about **Web Development**
 
