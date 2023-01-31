@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rsthaofficial@gmail.com**
 
-- ⚡ Fun fact? **Tell me something funny**
+- ⚡ **Tell me something funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
