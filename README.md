@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, Rounak Stha welcomes you</h1>
 <h3 align="left">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Golang**
+- 🔭 I’m currently working on learning **Advanced Golang**
 
 - 🌱 I’m currently learning **to create awesome UI libraries**
 
