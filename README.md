@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, Rounak Stha welcomes you</h1>
 <h3 align="left">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on learning **Advanced Golang**
-
-- 🌱 I’m currently learning **to create awesome UI libraries**
+- 🔭 I’m currently working on contributing to open source.
 
 - 👨‍💻 Website [www.rounakstha.me](www.rounakstha.vercel.app)
 
-- 📝 I regularly write articles on [www.rounakstha.me/blog](www.rounakstha.vercel.app/blog)
+- 📝 I regularly write articles on [www.rounakstha.me/blog](www.rounakstha.me/blog)
 
 - 💬 Ask me about **Web Development**
 
