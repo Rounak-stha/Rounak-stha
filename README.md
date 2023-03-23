@@ -13,9 +13,9 @@
 
 - I am always working on something.
   **Recent Projects**
-  - [Snote](Short Notes with Markdown)
+  - [Snote](https://snote-md.vercel.app)
   - [API Documentation Tool](https://api-docs-app.vercel.app)
-  - [ghub-repo-search.netlify.app/](Github Repo Search)
+  - [Github Repo Search](https://ghub-repo-search.netlify.app/)
   
 - 📫 How to reach me **rsthaofficial@gmail.com**
 
