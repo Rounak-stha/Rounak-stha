@@ -6,12 +6,14 @@
 - 👨‍💻 Website [www.rounakstha.me](www.rounakstha.vercel.app)
 
 - 📝 I regularly write articles on [www.rounakstha.me/blog](www.rounakstha.me/blog)
-  **Reent Blogs**
+  
+  **Recent Blogs**
   - [How I used Git Submodules, Sparse Checkout, and Npm Workspaces in a Recent Project](https://www.rounakstha.me/blog/git-submodule-sparse-checkout-and-npm-workspaces)
   - [Under the hood of the Tool Create-React-App](https://www.rounakstha.me/blog/under-the-hood-of-the-tool-create-react-app)
   - [Maintaining Multiple Git Repo For the Same Project](https://www.rounakstha.me/blog/maintaining-mulitple-git-repo-for-same-project)
 
 - I am always working on something.
+
   **Recent Projects**
   - [Snote](https://snote-md.vercel.app)
   - [API Documentation Tool](https://api-docs-app.vercel.app)
