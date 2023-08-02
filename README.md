@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, Rounak Stha welcomes you</h1>
 <h3 align="left">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on contributing to open source.
+- 🔭 I’m currently working on parsers and interpreters.
 
 - 👨‍💻 Website [www.rounakstha.me](www.rounakstha.vercel.app)
 
