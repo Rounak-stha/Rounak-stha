@@ -13,9 +13,8 @@
   - [Maintaining Multiple Git Repo For the Same Project](https://www.rounakstha.me/blog/maintaining-mulitple-git-repo-for-same-project)
 
   **Recent Projects**
+  - [Tpx-Lang](https://tox-lang.vercel.app/)
   - [Snote](https://snote-md.vercel.app)
-  - [API Documentation Tool](https://api-docs-app.vercel.app)
-  - [Github Repo Search](https://ghub-repo-search.netlify.app/)
   
 - 📫 How to reach me **rsthaofficial@gmail.com**
 
