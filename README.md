@@ -12,8 +12,6 @@
   - [Under the hood of the Tool Create-React-App](https://www.rounakstha.me/blog/under-the-hood-of-the-tool-create-react-app)
   - [Maintaining Multiple Git Repo For the Same Project](https://www.rounakstha.me/blog/maintaining-mulitple-git-repo-for-same-project)
 
-- I am always working on something.
-
   **Recent Projects**
   - [Snote](https://snote-md.vercel.app)
   - [API Documentation Tool](https://api-docs-app.vercel.app)
