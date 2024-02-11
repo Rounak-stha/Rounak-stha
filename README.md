@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on parsers and interpreters.
 
-- 👨‍💻 Website [www.rounakstha.com.np](www.rounakstha.com.np)
+- 👨‍💻 Website [www.rounakstha.com.np](https://www.rounakstha.com.np)
 
-- 📝 I regularly write articles on [www.rounakstha.com.np/blog](www.rounakstha.com.np/blog)
+- 📝 I regularly write articles on [www.rounakstha.com.np/blog](https://www.rounakstha.com.np/blog)
   
   **Recent Blogs**
   - [How I used Git Submodules, Sparse Checkout, and Npm Workspaces in a Recent Project](https://www.rounakstha.me/blog/git-submodule-sparse-checkout-and-npm-workspaces)
